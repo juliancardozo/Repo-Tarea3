@@ -7,4 +7,4 @@ Pedro Solomita - 4943444-6
 Ana Silvera - 4230076-5
 
 
-Realizamos una clase python por cada distribución.
+# Realizamos una clase python por cada distribución.
